@@ -1,8 +1,4 @@
-# Echo - A Modern Blogging Platform
 
-Echo is a full-featured blogging platform built with React, TypeScript, and modern web technologies. It allows users to create, read, update, and delete blog posts, with user authentication and authorization.
-
-## Features
 
 - **User Authentication**:
   - Signup and login with JWT token authentication
